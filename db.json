@@ -1,0 +1,12 @@
+{
+    "users": {
+       "key1" : {
+            "id": 1,
+            "name": "Kate"
+        },
+        "key2" : {
+            "id": 2,
+            "name": "Jeff"
+        }
+    }
+}
